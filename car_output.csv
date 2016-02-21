@@ -1,0 +1,15 @@
+,buying_price,maint_price,doors,persons,trunk_size,safety,class,high_buy,high_maint,high_safe
+59,vhigh,med,4,4,big,low,unacc,True,False,False
+110,vhigh,med,4,more,big,med,acc,True,False,False
+148,vhigh,med,4,more,big,high,acc,True,False,True
+258,vhigh,med,4,4,big,low,unacc,True,False,False
+492,vhigh,med,4,4,small,high,acc,True,False,True
+586,vhigh,med,4,4,big,med,acc,True,False,False
+617,vhigh,med,4,4,med,low,unacc,True,False,False
+804,vhigh,med,4,more,big,high,acc,True,False,True
+946,vhigh,med,4,more,med,low,unacc,True,False,False
+948,vhigh,med,4,4,small,high,acc,True,False,True
+1006,vhigh,med,4,more,small,low,unacc,True,False,False
+1041,vhigh,med,4,4,small,low,unacc,True,False,False
+1231,vhigh,med,4,4,big,high,acc,True,False,True
+1260,vhigh,med,4,4,small,med,unacc,True,False,False
